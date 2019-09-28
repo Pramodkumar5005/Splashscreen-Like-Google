@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/white_g_xml"/>
+
+
+    <item android:drawable="@drawable/ic_demo"
+        android:gravity="left|right|top|bottom"
+        android:top="230dp"
+        android:bottom="230dp"
+        android:left="70dp"
+        android:right="70dp">
+
+    </item>
+
+</layer-list>
